@@ -1,0 +1,59 @@
+﻿species_id,trait_id,trait_value,observation_note
+SP001,T01f,absent,antenna 1 accessory flagellum
+SP001,T05,long_as_antenna_1,rostrum lenght
+SP001,T43,cleft,telson
+SP001,T07,small_or_absent,mandible molar
+SP001,T07,tritulative,mandible molar
+SP001,T13f,not_to_palmar,gnathopod 2 carpus length
+SP002,T14a,absent,pereon 1 constriction
+SP002,T15a,absent,pereon 2 constriction
+SP002,T01c,shorter_than_article_3,antenna 1 peduncle article 1
+SP002,T13g,with_tooth,gnathopod 2 propodus
+SP002,T43,fused_with_pleonite_3,telson
+SP002,T43,10_hooks,telson
+SP003,T02c,2_proximal_spine,antenna 2 segment 4 inner surfeace
+SP003,T31,smooth,epimera 1
+SP004,T13f,stridulating_absent,male gnathopod 2 carpus dorsal
+SP004,T13f,long_as_two_times_carpus,gnathopod 2 carpus setae
+SP004,T13e,long_as_two_times_carpus,gnathopod 2 merus setae
+SP004,T13c,no_ridges,gnathopod 2 basis anterior margin
+SP004,T39,2_article,urosome 3 ramus
+SP004,T37,interramal_process,urosome 1 peduncle
+SP004,T22,absent,coxa 2 posteromedial projection
+SP004,T12f,short,gnathopod 1 carpus stridulating
+SP004,T12g,absent,gnathopod 1 propodus apical acute
+SP005,T39,curved,urosome 3 rami
+SP006,T13g,absent,male gnathopod 2 palm ventral tooth
+SP006,T12f,shorter_than_propodus,gnathopod 1 carpus
+SP006,T37,not_bearing_3_small_teeth,urosome 1
+SP006,T38,not_bearing_3_small_teeth,urosome 2
+SP006,T01c,strong_widely,antenna 1
+SP006,T02c,strong_widely,antenna 2
+SP006,T37,absent,urosome 1 dorsal teeth pair
+SP006,T18b,narrow_long,basis pereopod 5
+SP006,T19b,narrow_long,basis pereopod 6
+SP006,T20b,narrow_long,basis pereopod 7
+SP007,T02c,present,antenna 2 oviod lamella appendix peduncle
+SP008,T02e,swelled_peduncle,antenna 2 article 4
+SP008,T13g,wide,gnathopod 2 propodus
+SP008,T13e,short,gnathopod 2 merus
+SP008,T13g,convex,gnathopod 2 distalmargin propodus
+SP008,T16e,long,pereopod 3 carpus
+SP008,T17e,long,pereopod 4 carpus
+SP008,T37,margin_spine,uropod 1 inner rami
+SP008,T37,margin_spine,uropod 2 inner rami
+SP009,T42,1_articulate,uropod 3 outerramus
+SP009,T28,smooth,pleon 1 dorsally
+SP009,T29,smooth,pleon 2 dorsally
+SP009,T30,smooth,pleon 3 dorsally
+SP009,T16g,short_stout,pereopod 3 dactylus
+SP009,T17g,short_stout,pereopod 4 dactylus
+SP009,T38,without_teeth,urosome 2
+SP009,T02c,strongly_setose,antenna 2 flagellum
+SP010,T12a,gnathopod_2,gnathopod 1 similar
+SP010,T12f,short,gnathopod 1 carpus
+SP010,T13f,short,gnathopod 2 carpus
+SP010,T12g,oblique,gnathopod 1 propodus palm
+SP010,T13g,oblique,gnathopod 2 propodus palm
+SP011,T04,weakly_developed,compound eyes
+SP011,T12e,absent,gnathopod 1 merus pilosed facially
